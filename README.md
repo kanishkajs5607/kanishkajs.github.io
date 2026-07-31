@@ -1,4 +1,4 @@
-# About Me:
+#  About Me:
 I'm currently working on IoT and embedded Systems projects<br>I'm looking to collaborate on open-source, IoT and electronics projects<br>I'm currently learning VLSI, Embedded, C, Verilog and Cadence tools<br>I'm open to internship opportunities in VLSI, Embedded and IoT<br>I enjoy turning real-world problems into practical engineering solutions through hackathons and projects
 
 ## 🌐 Socials:
@@ -6,24 +6,21 @@ I'm currently working on IoT and embedded Systems projects<br>I'm looking to col
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
-[
+](https://linkedin.com/in/YOUR-LINKEDIN-SLUG) [
 
-![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-](mailto:kanishkajs5607@gmail.com)
-[
+](mailto:kanishkajs5607@gmail.com) [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)
 
-](https://your-portfolio-url.com)
-[
+](https://your-portfolio-url.com) [
 
 ![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
 
 ](https://your-resume-link.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -104,29 +101,5 @@ I'm currently working on IoT and embedded Systems projects<br>I'm looking to col
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.shion.dev/api?username=kanishkajs5607&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<br/>
-
-
-![](https://streak-stats.demolab.com/?user=kanishkajs5607&theme=dark&hide_border=false)
-
-<br/>
-
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kanishkajs5607&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
-[
-
-![](https://komarev.com/ghpvc/?username=kanishkajs5607&icon=0&color=9)
-
-](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
