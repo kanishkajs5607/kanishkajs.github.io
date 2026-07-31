@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on IoT and embedded Systems projects<br>I'm looking to collaborate on open-source, IoT and electronics projects<br>I'm currently learning VLSI, Embedded, C, Verilog and Cadence tools<br>I'm open to internship opportunities in VLSI, Embedded and IoT<br>I enjoy turning real-world problems into practical engineering solutions through hackathons and projects
 
 ## 🌐 Socials:
